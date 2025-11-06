@@ -1,0 +1,1 @@
+A simple python program that reads stock price data from a CSV file, calculates each stock's percentage return, sorts them by performance, and generates both a summary report and an output CSV file with timestamped filenames.
