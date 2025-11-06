@@ -1,0 +1,23 @@
+Stock,Sector,PriceStart,PriceEnd,Return
+WMT,Consumer Staples,35.0,150.0,328.57
+MSFT,Technology,120.0,250.0,108.33
+AAPL,Technology,100.0,150.0,50.0
+NVDA,Technology,310.0,420.5,35.65
+ADBE,Technology,400.0,530.0,32.5
+ORCL,Technology,70.5,88.0,24.82
+FORD,Automotive,15.0,18.5,23.33
+BAC,Financials,28.0,33.5,19.64
+KO,Consumer Staples,70.0,83.0,18.57
+VOLVO,Automotive,180.0,210.0,16.67
+SHELL,Energy,45.0,52.0,15.56
+CITI,Financials,55.0,62.0,12.73
+IBM,Technology,125.0,140.0,12.0
+SIEMENS,Engineering,1350.0,1500.0,11.11
+COST,Consumer Staples,450.0,495.0,10.0
+PEP,Consumer Staples,150.0,165.0,10.0
+BP,Energy,320.0,350.0,9.38
+AXISBANK,Financials,850.0,920.0,8.24
+DIS,Consumer Discretionary,95.0,102.5,7.89
+BRITANNIA,Consumer Staples,3800.0,4100.0,7.89
+MCD,Consumer Discretionary,230.0,245.0,6.52
+GM,Automotive,35.0,28.0,-20.0
